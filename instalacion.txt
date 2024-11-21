@@ -1,0 +1,26 @@
+Para desplegar dicha aplicación, lo primeros que necesitamos realizar es
+una base de datos en nuestro hosting.
+
+La base de datos será la siguiente:
+
+CREATE TABLE `alimentos` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `nombre` varchar(255) NOT NULL,
+  `energia` decimal(10,0) NOT NULL,
+  `proteina` decimal(10,0) NOT NULL,
+  `hidratocarbono` decimal(10,0) NOT NULL,
+  `fibra` decimal(10,0) NOT NULL,
+  `grasatotal` decimal(10,0) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8;
+
+Luego de crear dicha base de datos, tenemos que habilitar las herramienta
+de alojamiento para desarrolladores y así poder usar git de manera comoda en
+nuestro hosting a través de SSH.
+
+COMANDOS EJECUTADOS:
+-git clone
+-mv
+
+Lo siguiente es realizar un clone del proyecto y moverlo a la carpeta /web de cdmon
+para así poder acceder a el a través de la web.
