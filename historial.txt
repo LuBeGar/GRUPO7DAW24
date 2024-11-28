@@ -1,0 +1,16 @@
+Integrante 1: Crea el repositorio GRUPO7DAW24 y añade a los colaboradores para que puedan subir y hacer aportaciones al repositorio. 
+Sube los archivos de la vista y frontend. 
+Recoge las valoraciones de la experiencia del resto de integrantes en el fichero de texto “valoraciones.txt”.
+
+Integrante 2: Crea la base de datos llamada “alimentos72024” para que la página web se conecte a este y crea la estructura correspondiente.
+Activa el alojamiento de desarrolladores en CDMON para poder usar comandos Git y así poder desplegar la aplicación usando Git clone.
+
+Integrante 3:Clona el repositorio original para crear una rama con los cambios realizados.
+Agrega al repositorio los archivos de index.php, controller.php y Config.php en sus correspondientes directorios.
+Modifica el archivo Config.php con los datos necesarios para que la conexión con la base de datos sea correcta.
+Realiza los commits necesarios para poder subir la rama al repositorio.
+Sube la rama con todos los cambios realizados al repositorio del proyecto.
+Crea el histórico de las tareas de todos los Integrantes del proyecto.
+
+Enlace: http://www.mangeldns.es.mialias.net/GRUPO7DAW24/web/
+
