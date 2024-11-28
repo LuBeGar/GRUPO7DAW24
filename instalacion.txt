@@ -1,0 +1,21 @@
+He creado una base de datos llamado alimentos72024 para que la página
+web se conecte a este y he creado la estructura correspondiente
+
+CREATE TABLE `alimentos` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `nombre` varchar(255) NOT NULL,
+  `energia` decimal(10,0) NOT NULL,
+  `proteina` decimal(10,0) NOT NULL,
+  `hidratocarbono` decimal(10,0) NOT NULL,
+  `fibra` decimal(10,0) NOT NULL,
+  `grasatotal` decimal(10,0) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8;
+
+Luego se ha activado el alojamiento de desarrolladores en CDMON para
+poder usar comandos Git y así poder desplegar la aplicación usando
+Git clone.
+
+Una vez creado todo, se le pasa las credenciales de la base de datos
+al integrante 3 para que pueda hacer los cambios necesarios
+y conseguir que la página funcione correctamente.
