@@ -1,0 +1,15 @@
+Valoraciones
+
+Integrante 1: Ya que mi tarea solo consistía en subir el proyecto inicial e invitar a mis compañeros, 
+no me ha supuesto ningún problema, sin embargo, las carpetas de  web/js y web/images no aparecían porque 
+GitHub no permite subir carpetas vacías. Hemos resuelto este problema más adelante.
+
+Integrante 2: Mi tarea consiste en crear la base de datos y pasarle las credenciales al integrante 3, 
+el único problema es que CDMON a veces bloqueaba las comunicaciones por SSH y no me dejaba trabajar 
+correctamente. He solucionado dicho problema usando otra conexión distinta a la de clase y también me 
+he encargado de crear las carpetas web/img y web/js, ya que GitHub no dejaba subir carpetas vacías.
+
+Integrante 3: Mi tarea es la de gestionar los archivos index.php, controller.php y config.php. Este 
+último lo tenía que modificar con los datos que me proporcionó el Integrante 2 para que pudiera haber 
+conexión con la base de datos. El único problema que tuve fue a la hora de subir la rama creada con 
+los archivos anteriormente mencionados, ya que git estaba dando problemas.
